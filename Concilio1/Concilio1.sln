@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{F5711E02-0C66-12F2-9CD2-B785C2F3F1B0}") = "Concilio1", "Assembly-CSharp-firstpass.csproj", "{84C3D826-A7F8-24D7-D7BC-EA40353A69E0}"
 EndProject
-Project("{F5711E02-0C66-12F2-9CD2-B785C2F3F1B0}") = "Concilio1", "Assembly-CSharp.csproj", "{1F7773E8-F989-2F2C-622F-4C5DFA2A90E8}"
-EndProject
 Project("{F5711E02-0C66-12F2-9CD2-B785C2F3F1B0}") = "Concilio1", "Assembly-CSharp-Editor.csproj", "{15649E7F-2CE2-AC95-8997-458EF2B308DD}"
 EndProject
 Global
@@ -17,10 +15,6 @@ Global
 		{84C3D826-A7F8-24D7-D7BC-EA40353A69E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84C3D826-A7F8-24D7-D7BC-EA40353A69E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84C3D826-A7F8-24D7-D7BC-EA40353A69E0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1F7773E8-F989-2F2C-622F-4C5DFA2A90E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F7773E8-F989-2F2C-622F-4C5DFA2A90E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F7773E8-F989-2F2C-622F-4C5DFA2A90E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F7773E8-F989-2F2C-622F-4C5DFA2A90E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{15649E7F-2CE2-AC95-8997-458EF2B308DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{15649E7F-2CE2-AC95-8997-458EF2B308DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15649E7F-2CE2-AC95-8997-458EF2B308DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
