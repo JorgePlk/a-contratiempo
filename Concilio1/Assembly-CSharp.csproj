@@ -45,8 +45,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\SphereColision.cs" />
      <Compile Include="Assets\colibri\script comentado\ChangeColors.cs" />
+     <Compile Include="Assets\colibri\script comentado\DeleteObjects.cs" />
      <Compile Include="Assets\colibri\script comentado\MusicWrapper.cs" />
+     <Compile Include="Assets\colibri\script comentado\ObjectMovement.cs" />
      <Compile Include="Assets\colibri\script comentado\_AbstractRhythmObject.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
