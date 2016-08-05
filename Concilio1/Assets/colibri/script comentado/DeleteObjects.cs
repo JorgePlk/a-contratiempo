@@ -17,6 +17,8 @@ public class DeleteObjects : MonoBehaviour {
 
 	public void OnTriggerEnter(Collider collision) 
 	{
-		Destroy (collision.gameObject);
+		if (collision.gameObject.tag.Equals ("Sphere")) {
+			Destroy (collision.gameObject);
+		}
 	}
 }
