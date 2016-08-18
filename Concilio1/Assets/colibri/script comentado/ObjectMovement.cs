@@ -10,7 +10,7 @@ public class ObjectMovement : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		fallingSphere.velocity = new Vector3 (0, -5, 0);
+		fallingSphere.velocity = new Vector3 (0, -7, 0);
 	}
 
 }
